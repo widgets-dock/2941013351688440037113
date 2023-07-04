@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299799309316",
+    "project_id": "boca-boca-toca-wednesday",
+    "storage_bucket": "boca-boca-toca-wednesday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299799309316:android:d8fadca1e705f4db2f5951",
+        "android_client_info": {
+          "package_name": "com.salebodroid.bcbctcwdnsdy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6oT0RFjeyzgsqWU9_ok4thmOvJ-eXHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
